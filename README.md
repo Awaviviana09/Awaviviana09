@@ -28,7 +28,7 @@ def get_Awa_info():
         "pronouns": "She | Her",
         "status": "student"
         "technologies": {
-            "frontEnd": "Python"
+            "frontEnd": "DataAnalyst"
         },
         "skills": [ "Python", "Machine Learning", "Sklearn"],
         "interests": ["Anime", "Gaming", "Technology", "Music"]
