@@ -9,7 +9,8 @@ You may obtain a copy of the License at:
     https://github.com/Awaviviana09
 -->
 
-<h1 align="center">Hallo 👋, I'm Awa</h1>
+<h1 align="center">Hi There 👋 , I'm Awa. </h1> 🌱 I’m currently exploring Machine Learning (ML) and Data Science.
+
 <p align="center">
      <a href="https://github.com/Awaviviana09"><img src="https://github.com/user-attachments/assets/fc18b914-09d1-4074-970a-e07c8cda933c" width="50%" height="50%"/><a>
 </p>
