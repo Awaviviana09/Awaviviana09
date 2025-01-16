@@ -32,7 +32,7 @@ def get_Awa_info():
         "technologies": {
             "frontEnd": "DataAnalyst"
         },
-        "skills": [ "Python", "Machine Learning", "Sklearn"],
+        "skills": [ "Python", "Machine Learning", "Power BI"],
         "interests": ["Anime", "Gaming", "Technology", "Music"]
     }
 ```
