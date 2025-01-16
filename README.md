@@ -37,7 +37,9 @@ def get_Awa_info():
 
 <p align="center">
   <a href="https://github.com/Awaviviana09">
-    <img src="https://skillicons.dev/icons?i=py,linux,github,gitlab,tensorflow,matlab,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,vscode,python,tensorflow,github,powerbi,excel&theme=light" alt="Frontend, Data Scientist, and Data Analyst Icons" />
+    
+
   </a>
 </p>
 
@@ -51,7 +53,6 @@ def get_Awa_info():
 
 </p>
 
-https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
 
 ## 📊 Github Statistic
 
