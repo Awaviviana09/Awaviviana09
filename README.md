@@ -51,15 +51,15 @@ def get_Awa_info():
 
 ## 📊 Github Statistic
 
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayumiwandi&theme=tokyonight)
-![Repo language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayumiwandi&theme=jolly)
-![Statistic](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayumiwandi&theme=tokyonight)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awaviviana09&theme=tokyonight)
+![Repo language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awaviviana09&theme=jolly)
+![Statistic](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Awaviviana09&theme=tokyonight)
 
 
 ## 📈 Activity Graph
 <p align="center">
-<a href="https://github.com/mayumiwandi">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayumiwandi&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%" height="50%">
+<a href="https://github.com/Awaviviana09">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awaviviana09&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%" height="50%">
 </a>
 </p>
 
