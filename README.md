@@ -43,11 +43,15 @@ def get_Awa_info():
 
 ## ☎️ Connect With Me
 <p align="center">
-<a href="https://www.instagram.com/yumi_fantasy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://api.whatsapp.com/send?phone=6287817598153&text=Hello+Mayumi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://www.instagram.com/zahzxn0.0?igsh=OW9xbjBzNnluY3o3" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/awagenovieve/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
 </p>
 
-
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
 
 ## 📊 Github Statistic
 
@@ -62,8 +66,5 @@ def get_Awa_info():
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awaviviana09&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%" height="50%">
 </a>
 </p>
-
-## 🪙 Support Me
-[![Trakteer](https://img.shields.io/badge/Donate%20here-bf00ff )](https://saweria.co/YumiYui)
 
 
