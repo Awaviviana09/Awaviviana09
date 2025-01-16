@@ -25,8 +25,8 @@ You may obtain a copy of the License at:
 def get_Awa_info():
     return {
         "name": "Awa",
-        "pronouns": "She | His",
-        "birthday": "04 March 2000"
+        "pronouns": "She | Her",
+        "status": "student"
         "technologies": {
             "frontEnd": "Python"
         },
