@@ -9,7 +9,7 @@ You may obtain a copy of the License at:
     https://github.com/Awaviviana09
 -->
 
-<h1 align="center">Hi There 👋 ,  I'm Awa. </h1> 
+<h1 align="center">Hi There 👋 ,  I'm Awa. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px"> </h1> 
 <p align="center">🌱 I’m currently exploring Machine Learning (ML) and Data Analyst. </p>
 
 <p align="center">
