@@ -13,8 +13,10 @@ You may obtain a copy of the License at:
 <p align="center">🌱 I’m currently exploring Machine Learning (ML) and Data Analyst. </p>
 
 <p align="center">
-     <a href="https://github.com/Awaviviana09"><img src="https://github.com/user-attachments/assets/fc18b914-09d1-4074-970a-e07c8cda933c" width="50%" height="50%"/><a>
+     <a href="https://github.com/Awaviviana09"><img src="https://github.com/user-attachments/assets/6f03317e-cb0e-493c-8485-64a653561b3e" width="50%" height="50%"/><a>
 </p>
+
+
 
 
 
